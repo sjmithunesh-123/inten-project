@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-labelledby="title desc">
+	<title id="title">Smart Agriculture</title>
+	<desc id="desc">A leaf and digital field mark for Smart Agriculture</desc>
+	<rect width="64" height="64" rx="18" fill="#173f35"/>
+	<path d="M18 42c13-2 24-11 29-27 7 14 4 29-8 36-8 4-15 1-21-9Z" fill="#b8d86a"/>
+	<path d="M20 46c9-8 17-15 27-23M30 49c1-8 0-16-2-23" fill="none" stroke="#f7f5ed" stroke-width="3" stroke-linecap="round"/>
+	<circle cx="49" cy="19" r="4" fill="#e7a24b"/>
+	<text x="82" y="36" fill="#173f35" font-family="Georgia,serif" font-size="26" font-weight="700">SMART</text>
+	<text x="82" y="59" fill="#5b7369" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">AGRICULTURE</text>
+</svg>

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# Uploads
+backend/uploads/
+backend/.pytest_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
